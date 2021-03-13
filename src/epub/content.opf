@@ -41,14 +41,14 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20923</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/negroexploreratn00hens</dc:source>
 		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -60,24 +60,33 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Matthew_Henson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79066339</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<dc:contributor id="writer-of-foreword">Robert Peary</dc:contributor>
+		<meta property="file-as" refines="#writer-of-foreword">Peary, Robert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Robert_Peary</meta>
+		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">wof</meta>
+		<dc:contributor id="writer-of-introduction">Booker T. Washington</dc:contributor>
+		<meta property="file-as" refines="#writer-of-introduction">Washington, Booker T.</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-introduction">https://en.wikipedia.org/wiki/Booker_T._Washington</meta>
+		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Emmy</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Emmy</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -91,6 +100,12 @@
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/illustration-1.jpg" id="illustration-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-2.jpg" id="illustration-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-3.jpg" id="illustration-3.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-4.jpg" id="illustration-4.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-5.jpg" id="illustration-5.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-6.jpg" id="illustration-6.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/appendix-1.xhtml" id="appendix-1.xhtml" media-type="application/xhtml+xml"/>
