@@ -41,22 +41,24 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Travel</meta>
+		<dc:description id="description">The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When Robert Peary’s team was the first to reach the North Pole, he was the only white man in the picture. Accompanying him were four Eskimos and &lt;a href="https://standardebooks.org/ebooks/matthew-henson"&gt;Matthew Henson&lt;/a&gt;, a black man who had been with Peary on all his expeditions for the previous twenty years. Henson tells the story of that last expedition with candor and warmth, making neither too much nor too little of the conditions the team endured, including travelling on foot and sled in temperatures reaching 50° and more below zero. Henson’s story is a testament to fortitude in the face of debilitating conditions.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20923</dc:source>
 		<dc:source>https://archive.org/details/negroexploreratn00hens</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The versions of the photos on Gutenberg were low quality and resolution; this includes copies of the source photographs found in the scans.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/matthew-henson_a-negro-explorer-at-the-north-pole</meta>
 		<dc:creator id="author">Matthew Henson</dc:creator>
 		<meta property="file-as" refines="#author">Henson, Matthew</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Matthew Alexander Henson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Matthew_Henson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79066339</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
