@@ -16,19 +16,12 @@ table{
 }
 
 /* location specific */
-#foreword [epub|type~="se:letter.dateline"]{
-	font-style: italic;
-	text-align: initial;
-	text-indent: 0;
-}
-
 #illustration-4.full-page{
 	max-width: 75%;
 }
 
 #appendix-2 ol{
 	list-style-type: none;
-	margin-left: 3em;
 }
 
 #appendix-2 table{
@@ -43,8 +36,8 @@ table{
 	text-align: right;
 }
 
-#appendix-2 tr:nth-of-type(2) td:nth-of-type(2){
-	border-bottom: solid 2px;
+#appendix-2 tr:last-child td:nth-of-type(2){
+	border-top: solid 1px;
 }
 /* end of location specific */
 
@@ -92,7 +85,6 @@ figcaption i{
 /* end of images
 
 /* poem/verse/song */
-
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
