@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="appendix-2.xhtml">
-		<ignore>
-			<code>t-011</code>
-			<reason>The rsquo’s are syllable stress marks, not quotes.</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
