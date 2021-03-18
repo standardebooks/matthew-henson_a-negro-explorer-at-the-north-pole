@@ -68,6 +68,7 @@
 		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">wof</meta>
 		<dc:contributor id="writer-of-introduction">Booker T. Washington</dc:contributor>
 		<meta property="file-as" refines="#writer-of-introduction">Washington, Booker T.</meta>
+		<meta property="se:name.person.full-name" refines="#writer-of-introduction">Booker Talieferro Washington</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-introduction">https://en.wikipedia.org/wiki/Booker_T._Washington</meta>
 		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">William Bradford</dc:contributor>
