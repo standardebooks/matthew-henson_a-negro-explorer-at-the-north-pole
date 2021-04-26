@@ -89,6 +89,7 @@ figcaption i{
 /* end of images
 
 /* poem/verse/song */
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
