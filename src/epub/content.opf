@@ -67,6 +67,7 @@
 		<dc:contributor id="writer-of-foreword">Robert Peary</dc:contributor>
 		<meta property="file-as" refines="#writer-of-foreword">Peary, Robert</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-foreword">https://en.wikipedia.org/wiki/Robert_Peary</meta>
+		<meta property="se:url.authority.nacoaf" refines="#writer-of-foreward">http://id.loc.gov/authorities/names/n50049394</meta>
 		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">aui</meta>
 		<dc:contributor id="author-of-introduction-2">Booker T. Washington</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction-2">Washington, Booker T.</meta>
