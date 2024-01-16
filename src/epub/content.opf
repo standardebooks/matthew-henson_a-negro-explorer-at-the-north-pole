@@ -72,7 +72,8 @@
 		<dc:contributor id="author-of-introduction-2">Booker T. Washington</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction-2">Washington, Booker T.</meta>
 		<meta property="se:name.person.full-name" refines="#author-of-introduction-2">Booker Talieferro Washington</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction-2">https://en.wikipedia.org/wiki/Booker_T._Washington</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction-2">http://id.loc.gov/authorities/names/n50049394</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction-2">http://id.loc.gov/authorities/names/n79063604</meta>
 		<meta property="role" refines="#author-of-introduction-2" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">William Bradford</dc:contributor>
 		<meta property="file-as" refines="#artist">Bradford, William</meta>
