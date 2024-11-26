@@ -77,6 +77,14 @@ figure.full-page{
 	}
 }
 
+@supports(display: grid){
+	figure.full-page{
+		display: grid;
+		grid-template-rows: 1fr auto;
+		max-height: 100%;
+	}
+}
+
 figcaption{
 	font-size: smaller;
 	font-style: italic;
