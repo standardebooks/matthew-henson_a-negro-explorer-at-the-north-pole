@@ -75,7 +75,6 @@
 		<meta property="file-as" refines="#author-of-introduction-2">Washington, Booker T.</meta>
 		<meta property="schema:alternateName" refines="#author-of-introduction-2">Booker Talieferro Washington</meta>
 		<link href="https://id.loc.gov/authorities/names/n50049394.html" refines="#author-of-introduction-2" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n79063604.html" refines="#author-of-introduction-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-of-introduction-2" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">William Bradford</dc:contributor>
 		<meta property="file-as" refines="#artist">Bradford, William</meta>
