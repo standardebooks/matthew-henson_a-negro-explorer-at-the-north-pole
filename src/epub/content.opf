@@ -46,7 +46,7 @@
 		<meta property="schema:genre">Memoir</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Travel</meta>
-		<dc:abstract>The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.</dc:abstract>
+		<meta property="schema:abstract">The self-told story of the black man who accompanied Robert Peary during the first trip to the North Pole.</meta>
 		<dc:description>
 			&lt;p&gt;When Robert Peary’s team was the first to reach the North Pole, he was the only white man in the picture. Accompanying him were four Eskimos and &lt;a href="https://standardebooks.org/ebooks/matthew-henson"&gt;Matthew Henson&lt;/a&gt;, a black man who had been with Peary on all his expeditions for the previous twenty years. Henson tells the story of that last expedition with candor and warmth, making neither too much nor too little of the conditions the team endured, including travelling on foot and sled in temperatures reaching 50° and more below zero. Henson’s story is a testament to fortitude in the face of debilitating conditions.&lt;/p&gt;
 		</dc:description>
