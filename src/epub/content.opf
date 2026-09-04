@@ -31,10 +31,10 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Negro Explorer at the North Pole</dc:title>
 		<meta property="file-as" refines="#title">Negro Explorer at the North Pole, A</meta>
-		<dc:subject id="subject-1">Arctic regions -- Discovery and exploration</dc:subject>
+		<dc:subject id="subject-1">Arctic regions--Discovery and exploration</dc:subject>
 		<dc:subject id="subject-2">Henson, Matthew Alexander, 1866-1955</dc:subject>
-		<dc:subject id="subject-3">African American explorers -- Biography</dc:subject>
-		<dc:subject id="subject-4">North Pole -- Discovery and exploration</dc:subject>
+		<dc:subject id="subject-3">African American explorers--Biography</dc:subject>
+		<dc:subject id="subject-4">North Pole--Discovery and exploration</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85006958</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
