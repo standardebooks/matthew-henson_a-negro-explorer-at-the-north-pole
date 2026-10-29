@@ -73,8 +73,9 @@
 		<meta property="role" refines="#writer-of-foreword" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="author-of-introduction-2">Booker T. Washington</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction-2">Washington, Booker T.</meta>
-		<meta property="schema:alternateName" refines="#author-of-introduction-2">Booker Talieferro Washington</meta>
-		<link href="https://id.loc.gov/authorities/names/n50049394.html" refines="#author-of-introduction-2" rel="schema:sameAs"/>
+		<meta property="schema:alternateName" refines="#author-of-introduction-2">Booker Taliaferro Washington</meta>
+		<link href="https://en.wikipedia.org/wiki/Booker_T._Washington" refines="#author-of-introduction-2" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79063604.html" refines="#author-of-introduction-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-of-introduction-2" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">William Bradford</dc:contributor>
 		<meta property="file-as" refines="#artist">Bradford, William</meta>
